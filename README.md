@@ -31,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Solution](https://your-solution-url.com)
-- Live Site URL: [Live site](https://your-live-site-url.com)
+- Solution URL: [Solution](https://www.frontendmentor.io/solutions/product-preview-card-component-kZK-89GpoF)
+- Live Site URL: [Live site](https://evertonneto.github.io/Product-preview---FrondendMentor/)
 
 ## My process
 
